@@ -21,5 +21,5 @@ My name is Ronald, welcome to my Github.
 - 👯 I’m looking to collaborate on generative AI projects.
 - 🤔 I’m looking for help with my code review.
 - 📖 I'm currently reading: "The First 90 Days" and "Getting Things Done".
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ronald-ngounou/) or [email](ronald.ngounou@yahoo.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ronald-ngounou/)
   
