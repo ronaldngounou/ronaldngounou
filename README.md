@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 My name is Ronald, welcome to my Github. 
-- 🔭 I’m currently working on my finals exams.
+- 🔭 I’m currently working on my school finals.
 - 🌱 I’m currently learning Swift and Microsoft Azure for AI Engineering. 
 - 👯 I’m looking to collaborate on generative AI projects.
 - 🤔 I’m looking for help with my code review.
