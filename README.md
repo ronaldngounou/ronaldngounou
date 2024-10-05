@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I research compact convolution transformers and reinforcement learning. I'm currently looking at:
-  - 🔒 **LLM security:** hazards manifest if we don't treat language models as unreliable and subvertible. Or as [demons](https://www.summonademonandbind.it/)!
-  - 🛡️ **Online harms:** content safety, misinformation processing, hate speech & abusive language detection. [Enumerate risks with Language Model Risk Cards](https://arxiv.org/abs/2303.18190)
+- 🔭 I research compact convolution transformers and reinforcement learning. 
+  - I was a previous intern at Apple Inc in the Summer 2024.
 
 - 🏢 I'm a computer science master's student at the University of the District of Columbia.
 
