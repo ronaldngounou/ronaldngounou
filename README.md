@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I research compact convolution transformers and reinforcement learning. 
-  - I was a previous intern at Apple Inc in the Summer 2024.
-
 - 🏢 I'm a computer science master's student at the University of the District of Columbia.
+  -  🔭 My research areas revolve around compact convolution transformers and reinforcement learning. 
 
 - 🧑‍🎓 I’m currently contributing to [The Algorithm - Python Open Source](https://github.com/TheAlgorithms) and building personal projects.
 
