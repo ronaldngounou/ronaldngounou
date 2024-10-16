@@ -10,7 +10,7 @@
 - 🪶 In my free time, I read, write, code and play basketball.
 
 
-<h2 align="center"> Programming Skills:</h2>
+<h2> Programming Skills:</h2>
 <p align="center">
   <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;&nbsp;&nbsp;
   <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;&nbsp;&nbsp;
