@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🎓 MS Computer Science @ UDC, Washigton DC.
-    - 🎓 MS Sustainable Energy Engineering @ HELMo, Belgium.
-    - 🎓 BS Industrial Engineering @ HELMo, Belgium.
+- 🎓 MS Sustainable Energy Engineering @ HELMo, Belgium.
+- 🎓 BS Industrial Engineering @ HELMo, Belgium.
 
 -  🔭 Interests: distributed systems, backend, data science, full-stack
 
