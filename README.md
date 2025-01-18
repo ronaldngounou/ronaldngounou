@@ -1,13 +1,14 @@
 ### Hi there 👋
 
 - 🎓 MS Computer Science @ UDC, Washigton DC.
-    - MS Sustainable Energy Engineering @ HELMo, Belgium.
-    - BS Industrial Engineering @ HELMo, Belgium.
-  -  🔭 research: reinforcement learning 
+    - 🎓 MS Sustainable Energy Engineering @ HELMo, Belgium.
+    - 🎓 BS Industrial Engineering @ HELMo, Belgium.
+
+-  🔭 Interests: distributed systems, backend, data science, full-stack
 
 - 🧑‍🎓 Open Source Contributor: [The Algorithm/Python Open Source project](https://github.com/TheAlgorithms/Python)
 
-- 🪶 I read, write, code and play basketball.
+- 🪶 I code, read, write, and play basketball.
 
 
 <h2> Programming Skills:</h2>
