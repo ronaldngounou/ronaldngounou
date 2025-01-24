@@ -6,9 +6,7 @@
 
 -  🔭 Interests: distributed systems, backend, data science, full-stack
 
-- 🧑‍🎓 Open Source Contributor: [The Algorithm/Python Open Source project](https://github.com/TheAlgorithms/Python)
-
-- 🪶 I code, read, write, and play basketball.
+- Open Source Contributor: [The Algorithm/Python Open Source project](https://github.com/TheAlgorithms/Python)
 
 
 <h2> Programming Skills:</h2>
