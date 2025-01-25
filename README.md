@@ -14,6 +14,7 @@
   <br>
   <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;&nbsp;&nbsp;
   <img align="center" src="https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=sql&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img align="center" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img align="center" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img align="center" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp;&nbsp;&nbsp;
