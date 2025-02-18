@@ -4,7 +4,7 @@
 - 🎓 MS Sustainable Energy Engineering @ HELMo, Belgium.
 - 🎓 BS Industrial Engineering @ HELMo, Belgium.
 
--  🔭 Interests: distributed systems, backend, data science, full-stack
+-  🔭 Interests: data science, backend, distributed systems, data visualization, cloud technologies
 
 - Open Source Contributor: [The Algorithm/Python Open Source project](https://github.com/TheAlgorithms/Python)
 
