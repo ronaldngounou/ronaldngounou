@@ -20,5 +20,7 @@
   <img align="center" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;&nbsp;&nbsp;
   <img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;&nbsp;
+  <img align="center" src="https://img.shields.io/badge/plotly-3E9C8A?style=for-the-badge&logo=plotly&logoColor=white" />&nbsp;&nbsp;&nbsp;
+
   <br>
 </p>
