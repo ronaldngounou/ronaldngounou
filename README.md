@@ -6,7 +6,7 @@
 
 -  🔭 Interests: data science, backend, distributed systems, data visualization, cloud technologies
 
-- Open Source Contributor: [The Algorithm/Python Open Source project](https://github.com/TheAlgorithms/Python)
+- Open Source Contributor: etcd, Kubernetes
 
 
 <h2> Programming Skills:</h2>
