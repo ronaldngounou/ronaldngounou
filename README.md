@@ -5,7 +5,7 @@
 - 🎓 BS Industrial Engineering @ HELMo, Belgium.
 
 -  🔭 Interests: data science, backend, distributed systems, data visualization, cloud technologies
--  Currently learning: Certified Kuberenetes Admnistrator, Golang 
+-  Currently learning: Certified Kubernetes Admnistrator, Golang 
 
 - Open Source Contributor: Kubernetes, etcd
 
