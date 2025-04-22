@@ -7,7 +7,7 @@
 -  🔭 Interests: data science, backend, distributed systems, data visualization, cloud technologies
 -  Currently learning: Certified Kubernetes Admnistrator, Golang 
 
-- Open Source Contributor: Kubernetes, etcd
+- Open Source Contributor: [etcd](https://github.com/etcd-io/website)
 
 
 <h2> Skills:</h2>
