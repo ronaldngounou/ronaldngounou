@@ -1,13 +1,5 @@
-### Hi there 👋
-
-- 🎓 MS Computer Science @ UDC, Washigton DC.
-- 🎓 MS Sustainable Energy Engineering @ HELMo, Belgium.
-- 🎓 BS Industrial Engineering @ HELMo, Belgium.
-
--  🔭 Interests: data science, backend, distributed systems, data visualization, cloud technologies
--  Currently learning: Certified Kubernetes Admnistrator, Golang 
-
-- Open Source Contributor: [etcd](https://github.com/etcd-io/website)
+- Passionate software engineer who loves learning new things and writing lots of code.
+- Open source contributor: etcd
 
 
 <h2> Skills:</h2>
