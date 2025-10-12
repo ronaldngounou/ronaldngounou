@@ -1,5 +1,6 @@
 - Passionate software engineer who loves learning new things and writing lots of code.
 - Open source contributor: etcd
+> Everything you do leads up to everything that you are going to do, and if you try to do interesting things you will learn interesting things that will enable you to do even more interesting things.
 
 
 <h2> Skills:</h2>
